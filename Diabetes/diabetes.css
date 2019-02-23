@@ -1,0 +1,12 @@
+td, th, table {
+	border: 1px solid black;
+}
+img {
+	max-width:100%;
+	height: auto;
+}
+
+div .w3-twothird {
+	padding-right: 32px;
+	padding-left: 32px;
+}
